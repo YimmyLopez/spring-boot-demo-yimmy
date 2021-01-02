@@ -1,0 +1,1 @@
+alter table [user] add constraint UX_Email unique (email)
